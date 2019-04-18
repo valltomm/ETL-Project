@@ -1,0 +1,96 @@
+,_id,postal_code,price,source_loaded
+0,5cb7cac567e0daed3a7ef4a9, M5T2V4,$119 ,Hotels.com
+1,5cb7cac567e0daed3a7ef4aa, M5T2S3,$139 ,Hotels.com
+2,5cb7cac567e0daed3a7ef4ab, M5T 1H5,$59 ,Hotels.com
+3,5cb7cac567e0daed3a7ef4ac, M6J 2G4,$134 ,Hotels.com
+4,5cb7cac567e0daed3a7ef4ad, M5T1E8,$69 ,Hotels.com
+5,5cb7cacb67e0daed3a7ef4ae, M1H2Z1,$144 ,Hotels.com
+6,5cb7cacb67e0daed3a7ef4af, M1H2Z1,$140 ,Hotels.com
+7,5cb7cacb67e0daed3a7ef4b0, M1B3C6,$118 ,Hotels.com
+8,5cb7cacb67e0daed3a7ef4b1, M1T-3G2,$154 ,Hotels.com
+9,5cb7cacb67e0daed3a7ef4b2, Canada,$58 ,Hotels.com
+10,5cb7cad067e0daed3a7ef4b3, M9C5K5,$169 ,Hotels.com
+11,5cb7cad067e0daed3a7ef4b4, M9C 5K5,$149 ,Hotels.com
+12,5cb7cad067e0daed3a7ef4b5, M9C 5K5,$124 ,Hotels.com
+13,5cb7cad067e0daed3a7ef4b6, L4W4X2,$139 ,Hotels.com
+14,5cb7cad067e0daed3a7ef4b7, L4W5R2,$139 ,Hotels.com
+15,5cb7cad567e0daed3a7ef4b8, M9W 5E7,$146 ,Hotels.com
+16,5cb7cad567e0daed3a7ef4b9, M9W5E8,$130 ,Hotels.com
+17,5cb7cad567e0daed3a7ef4ba, M9W 5E8,$199 ,Hotels.com
+18,5cb7cad567e0daed3a7ef4bb, M9W1J5,$129 ,Hotels.com
+19,5cb7cad567e0daed3a7ef4bc, M9W1J5,$139 ,Hotels.com
+20,5cb7cade67e0daed3a7ef4bd, M4P2L2,$119 ,Hotels.com
+21,5cb7cade67e0daed3a7ef4be, M5R 2G3,$134 ,Hotels.com
+22,5cb7cade67e0daed3a7ef4bf, M4W 0A4,$599 ,Hotels.com
+23,5cb7cade67e0daed3a7ef4c0, M5R1C2,$699 ,Hotels.com
+24,5cb7cade67e0daed3a7ef4c1, M4W1A7,$169 ,Hotels.com
+25,5cb7cae467e0daed3a7ef4c2, M5V 2G3,$309 ,Hotels.com
+26,5cb7cae467e0daed3a7ef4c3, M5V 1J9,$179 ,Hotels.com
+27,5cb7cae467e0daed3a7ef4c4, M5V1H3,$306 ,Hotels.com
+28,5cb7cae467e0daed3a7ef4c5, M5V3T4,$260 ,Hotels.com
+29,5cb7cae467e0daed3a7ef4c6, M5V3P9,$199 ,Hotels.com
+30,5cb7caeb67e0daed3a7ef4c7, M5B2G8,$149 ,Hotels.com
+31,5cb7caeb67e0daed3a7ef4c8, M5B 1V8,$237 ,Hotels.com
+32,5cb7caeb67e0daed3a7ef4c9, M5B2C1,$221 ,Hotels.com
+33,5cb7caeb67e0daed3a7ef4ca, M5G 2L2,$209 ,Hotels.com
+34,5cb7caeb67e0daed3a7ef4cb, M5C 1S2,$299 ,Hotels.com
+35,5cb7caf067e0daed3a7ef4cc, M5C1N2,$199 ,Hotels.com
+36,5cb7caf067e0daed3a7ef4cd, M5C1E9,$212 ,Hotels.com
+37,5cb7caf067e0daed3a7ef4ce, M5H1A1,$152 ,Hotels.com
+38,5cb7caf067e0daed3a7ef4cf, M5H 4G3,$509 ,Hotels.com
+39,5cb7caf067e0daed3a7ef4d0, M5C 1S2,$299 ,Hotels.com
+40,5cb7caf467e0daed3a7ef4d1, M5G1Z4,$149 ,Hotels.com
+41,5cb7caf467e0daed3a7ef4d2, M5B1G3,$229 ,Hotels.com
+42,5cb7caf467e0daed3a7ef4d3, M5B 1H2,$129 ,Hotels.com
+43,5cb7caf467e0daed3a7ef4d4, M5B2E9,$170 ,Hotels.com
+44,5cb7caf467e0daed3a7ef4d5, M4Y1X7,$169 ,Hotels.com
+45,5cb7caf867e0daed3a7ef4d6, M9W 6K5,$145 ,Hotels.com
+46,5cb7caf867e0daed3a7ef4d7, M9W7A4,$120 ,Hotels.com
+47,5cb7caf867e0daed3a7ef4d8, M9W1H3,$135 ,Hotels.com
+48,5cb7caf867e0daed3a7ef4d9, M9W7K7,$119 ,Hotels.com
+49,5cb7caf867e0daed3a7ef4da, M9W 7K7,$159 ,Hotels.com
+50,5cb7cafd67e0daed3a7ef4db, M4Y 1S1,$219 ,Hotels.com
+51,5cb7cafd67e0daed3a7ef4dc, M4W1A7,$169 ,Hotels.com
+52,5cb7cafd67e0daed3a7ef4dd, M4Y2G2,$149 ,Hotels.com
+53,5cb7cafd67e0daed3a7ef4de, M4Y1L5,$119 ,Hotels.com
+54,5cb7cafd67e0daed3a7ef4df, M4Y1G7,$278 ,Hotels.com
+55,5cb7cb0167e0daed3a7ef4e0, M5B2C2,$129 ,Hotels.com
+56,5cb7cb0167e0daed3a7ef4e1, M5B2C5,$139 ,Hotels.com
+57,5cb7cb0167e0daed3a7ef4e2, M5A2N9,$115 ,Hotels.com
+58,5cb7cb0167e0daed3a7ef4e3, M5B 1H2,$129 ,Hotels.com
+59,5cb7cb0167e0daed3a7ef4e4, M5B2C1,$221 ,Hotels.com
+60,5cb7cb0567e0daed3a7ef4e5, M4Y1X7,$169 ,Hotels.com
+61,5cb7cb0567e0daed3a7ef4e6, M5B2E9,$170 ,Hotels.com
+62,5cb7cb0567e0daed3a7ef4e7, M5B 1H2,$129 ,Hotels.com
+63,5cb7cb0567e0daed3a7ef4e8, M4Y1G7,$278 ,Hotels.com
+64,5cb7cb0567e0daed3a7ef4e9, M5B1G3,$229 ,Hotels.com
+65,5cb7cb0a67e0daed3a7ef4ea, M9W5E8,$130 ,Hotels.com
+66,5cb7cb0a67e0daed3a7ef4eb, M9W 5E8,$199 ,Hotels.com
+67,5cb7cb0a67e0daed3a7ef4ec, M9W1J5,$129 ,Hotels.com
+68,5cb7cb0a67e0daed3a7ef4ed, M9W1J8,$129 ,Hotels.com
+69,5cb7cb0a67e0daed3a7ef4ee, M9W5G1,$159 ,Hotels.com
+70,5cb7cb0e67e0daed3a7ef4ef, M4J1L9,$95 ,Hotels.com
+71,5cb7cb0e67e0daed3a7ef4f0, M4M 1Y3,$49 ,Hotels.com
+72,5cb7cb0e67e0daed3a7ef4f1, M4M2G1,$234 ,Hotels.com
+73,5cb7cb0e67e0daed3a7ef4f2, M5A2A5,$149 ,Hotels.com
+74,5cb7cb0e67e0daed3a7ef4f3, M5A 2T3,$109 ,Hotels.com
+75,5cb7cb1367e0daed3a7ef4f4, M1T-3G2,$154 ,Hotels.com
+76,5cb7cb1367e0daed3a7ef4f5, Canada,$58 ,Hotels.com
+77,5cb7cb1367e0daed3a7ef4f6, M1R 2T6,$99 ,Hotels.com
+78,5cb7cb1367e0daed3a7ef4f7, M1H2Z1,$144 ,Hotels.com
+79,5cb7cb1367e0daed3a7ef4f8, M1H2Z1,$140 ,Hotels.com
+80,5cb7cb1767e0daed3a7ef4f9, M5J0A9,$399 ,Hotels.com
+81,5cb7cb1767e0daed3a7ef4fa, M5J 0A6,$139 ,Hotels.com
+82,5cb7cb1767e0daed3a7ef4fb, Canada,$215 ,Hotels.com
+83,5cb7cb1767e0daed3a7ef4fc, M5J3A6,$209 ,Hotels.com
+84,5cb7cb1767e0daed3a7ef4fd, M5J 0A9,$440 ,Hotels.com
+85,5cb7cb1b67e0daed3a7ef4fe, M5G1R3,$169 ,Hotels.com
+86,5cb7cb1b67e0daed3a7ef4ff, M5G 2L2,$209 ,Hotels.com
+87,5cb7cb1b67e0daed3a7ef500, M5H2M9,$169 ,Hotels.com
+88,5cb7cb1b67e0daed3a7ef501, M5H2L2,$169 ,Hotels.com
+89,5cb7cb1b67e0daed3a7ef502, M5H0B1,$179 ,Hotels.com
+90,5cb7cb1f67e0daed3a7ef503, M6J 1J3,$299 ,Hotels.com
+91,5cb7cb1f67e0daed3a7ef504, M6J 1J6,$229 ,Hotels.com
+92,5cb7cb1f67e0daed3a7ef505, M6K 3C3,$301 ,Hotels.com
+93,5cb7cb1f67e0daed3a7ef506, M6R 1A5,$52 ,Hotels.com
+94,5cb7cb1f67e0daed3a7ef507, M6J 2J1,$929 ,Hotels.com
